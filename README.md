@@ -22,7 +22,7 @@ To start using the snippets simply type **bsm** *snippet_name*.
 
 ## 🖼️ Preview
 
-![preview1.gif](https://imgur.com/a/jC2sJeA)
+![preview.gif](https://imgur.com/gallery/jC2sJeA)
 
 ## ⚓ Links
 
