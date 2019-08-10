@@ -7,6 +7,10 @@
     "engines": {
         "vscode": "^1.37.0"
     },
+    "repository": {
+		"type": "git",
+		"url": "https://github.com/saggemode/bootstrap-v4-material-snippet"
+	},
     "categories": [
         "Snippets"
     ],
