@@ -1,0 +1,49 @@
+{
+    "name": "bs4-material-snippet",
+    "displayName": "bs4-material-snippet",
+    "description": "Simple bootstrap 4 Material snippet generator",
+    "icon": "images/icon.png",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.37.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "html",
+                "path": "./snippets/snippets.json"
+            },
+            {
+                "language": "javascript",
+                "path": "./snippets/snippets.json"
+            },
+            {
+                "language": "javascriptreact",
+                "path": "./snippets/snippets.json"
+            },
+            {
+				"language": "razor",
+				"path": "./snippets/snippets.json"
+			},
+			{
+				"language": "blade",
+				"path": "./snippets/snippets.json"
+			},
+			{
+				"language": "vue",
+				"path": "./snippets/snippets.json"
+			},
+			{
+				"language": "smarty",
+				"path": "./snippets/snippets.json"
+			},
+			{
+				"language": "cfml",
+				"path": "./snippets/snippets.json"
+			}
+        ]
+    }
+}
