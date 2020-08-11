@@ -35,7 +35,7 @@ To start using the snippets simply type **bsm** *snippet_name*.
 
 ## ☕ Support me
 
-* Bitcoin: `13Mnd3ZoDunNTh8Fwf5feJcWvjeFm9PnE6`
+* Bitcoin: `93c10c76-21b0-4bc9-99be-5962309a8657`
 
 ## 👨🏻‍💻 Compiling and testing guide
 
